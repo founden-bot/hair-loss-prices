@@ -45,4 +45,6 @@ CC BY 4.0: reuse it, commercially too, naming HairLossCompare as the source with
 
 > HairLossCompare. US hair loss treatment prices online. https://hairlosscompare.com/data. Licensed under CC BY 4.0.
 
+A fixed snapshot with a DOI is archived on Zenodo: [10.5281/zenodo.24548074](https://doi.org/10.5281/zenodo.24548074).
+
 Not medical advice. Every medicine here needs a prescription except over-the-counter minoxidil, and a compounded formula is not FDA-approved.
